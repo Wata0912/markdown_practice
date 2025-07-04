@@ -16,4 +16,6 @@
 * 空白行で
 
 改行したよ
-![画像が表示されないときのメッセージ：FAKER](https://raw.githubusercontent.com/Wata0912/markdown_practice/refs/heads/main/images/faker.jpg)
+![画像が表示されないときのメッセージ：FAKER](https://raw.githubusercontent.com/Wata0912/markdown_practice/refs/heads/main/images/faker.jpg)  
+
+[グーグル](https://www.google.com/)
