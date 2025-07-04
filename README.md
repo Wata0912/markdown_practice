@@ -17,9 +17,7 @@
 ![ShadowverseWB](https://raw.githubusercontent.com/Wata0912/markdown_practice/65807c0992e160f47ec5057f51d3d6ba980159df/images/shadowverseWB.jpg)  
 #### 読書  
 * ライトノベル
-  ファンタジーものが多め、特にSAOが好き
-  
+  ファンタジーものが多め、特にSAOが好き 
 * 漫画
-  ファンタジーをはじめいろいろ読みます、最近はアオアシを一気読みしました  
-
-[グーグル](https://www.google.com/)
+  ファンタジーをはじめいろいろ読みます、最近はアオアシを一気読みしました
+  ![アオアシ1](https://raw.githubusercontent.com/Wata0912/markdown_practice/579eb784ed946b5fb55a6e5fe1028556ef583bce/images/aoashi.jpg) 
