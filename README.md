@@ -1,21 +1,16 @@
-# 見出しレベル1
-## 見出しレベル2
-### 見出しレベル3
-#### 見出しレベル4
-##### 見出しレベル5
-###### 見出しレベル6
-行末に半角スペースを二つ入れたら  
-改行されたよ  
-行末に半角スペースを入れなかったら
-改行されないよ  
-文章と文章の間に
+# 自己紹介  
+## 名前 渡部匠人  
+### 生い立ち、経歴   
+* 2005/09/12 北海道名寄市にて生まれる  　　
+* 中学3年 家族都合で旭川に引っ越す  
+* 起立性調節障害の診断を受ける
+* 高校入学 LOLに出会いのめり込む  
+* 2024年専門学校入学  
+* U19全国eスポーツ選手権 Leage of Legends部門3位を取る  
+### 趣味  
+* [Leage of Legends](https://www.leagueoflegends.com/ja-jp/) 自分が一番のめり込んだゲーム、はっきり言って神ゲー
+* [学園アイドルマスター](https://gakuen.idolmaster-official.jp/) ウマ娘とかいうクs.... いいゲームから乗り換えた、面白いゲーム  
+* [Shadowverse Worldsbeyond](https://shadowverse-wb.com/ja/) 今一番はまっているゲーム 大会に出ようか悩んでいるレベル  
 
-空白行を入れて改行できるよ  
-* 半角スペースで  
-改行したよ  
-* 空白行で
-
-改行したよ
-![画像が表示されないときのメッセージ：FAKER](https://raw.githubusercontent.com/Wata0912/markdown_practice/refs/heads/main/images/faker.jpg)  
 
 [グーグル](https://www.google.com/)
